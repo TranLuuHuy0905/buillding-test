@@ -66,7 +66,7 @@ function RegisterForm() {
         stateDispatch={setFirstName}
         formLabel="First Name"
         formHelper="Your first name."
-        formPlaceholder="Faiz"
+        formPlaceholder="HuyVoi"
       />
 
       <ControlledText
@@ -74,7 +74,7 @@ function RegisterForm() {
         stateDispatch={setLastName}
         formLabel="Last Name"
         formHelper="Your last name."
-        formPlaceholder="Ramdhani"
+        formPlaceholder="Huyvoi"
       />
 
       <ControlledText
@@ -82,7 +82,7 @@ function RegisterForm() {
         stateDispatch={setAddress}
         formLabel="Address"
         formHelper="Your address."
-        formPlaceholder="South Jakarta"
+        formPlaceholder="Bình Thạnh"
       />
 
       <FormControl isRequired>
@@ -103,7 +103,7 @@ function RegisterForm() {
         stateDispatch={setEmail}
         formLabel="Email"
         formHelper="Your email."
-        formPlaceholder="faizramdhani@gmail.com"
+        formPlaceholder="abc@gmail.com"
       />
 
       <ControlledText
