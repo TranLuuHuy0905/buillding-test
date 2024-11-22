@@ -35,13 +35,13 @@
     "passwordConfirm": "test1234"
   },
   {
-    "_id": "600e764744995c00179f86cd",
+    "_id": "600e764744995c00179f86cb",
     "firstName": "Muhammad",
     "lastName": "Dzulfiqar Ramadhan",
     "address": "Jl. Scientia Boulevard, Gading Serpong",
     "birthdate": "1999-12-12",
     "email": "muhammad.dzulfiqar@student.umn.ac.id",
-    "username": "admin",
+    "username": "huyvoi11",
     "password": "test1234",
     "passwordConfirm": "test1234",
     "role": "admin"
